@@ -9,3 +9,18 @@
 - (getmatriculated)[https://getmatriculated.com]
 - 👯 Contributed to an open source project from a Uber Software Engineer [Read More](https://github.com/trekhleb/javascript-algorithms/pull/517)
 
+## Skills
+- Nodejs(A)
+- ReactJs(A)
+- MongoDB(A)
+- Devops(B)
+- Postgres(B)
+- Redis(A)
+- Apache Kafka(A)
+- Docker(A)
+- Swagger(A)
+- Jest(A)
+- C++(C)
+- Communication Skill(A)
+
+
