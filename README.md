@@ -7,5 +7,5 @@
 - (makemyday)[https://makemyday.com.ng]
 - (clev-cqrs)[https://www.npmjs.com/package/clev-cqrs]
 - (getmatriculated)[https://getmatriculated.com]
-- 👯 He's looking to collaborate to open source projects 
+- 👯 Contributed to an open source project from a Uber Software Engineer [Read More](https://github.com/trekhleb/javascript-algorithms/pull/517)
 
