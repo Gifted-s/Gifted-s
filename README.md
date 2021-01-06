@@ -11,6 +11,7 @@
 
 ## Skills
 - Nodejs(A)
+- Golang(B)
 - ReactJs(A)
 - MongoDB(A)
 - Devops(B)
