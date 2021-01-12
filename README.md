@@ -3,7 +3,6 @@
   He believes anything worth doing at all is worth doing well, and that's why he embrace diligence and consistency.
 - Part of team(3) who won the FSI hackaton 2020 [Read More](https://www.efina.org.ng/media-room/team-inclusion-wins-efinas-fintech4wd-hackathon)
 ## Here are some of my projects
-- (makemyday)[https://makemyday.com.ng]
 - (clev-cqrs)[https://www.npmjs.com/package/clev-cqrs]
 - 👯 Contributed to an open source project from a Uber Software Engineer [Read More](https://github.com/trekhleb/javascript-algorithms/pull/517)
 
