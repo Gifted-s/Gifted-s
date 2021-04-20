@@ -1,6 +1,6 @@
 
   ## Adewumi Sunkanmi
-  <br/>
+  <hr/>
   Software Engineer @Linguiyo - New York USA.
   <br/>
   He believes anything worth doing at all is worth doing well, and that's why he embrace diligence and consistency.
