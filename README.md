@@ -1,5 +1,5 @@
 ## Adewumi Sunkanmi
-#### Software Engineer working on core backend system @Linguiyo - New York U.S.A.
+#### Software Engineer working on backend system @ Supplys - Chennai, India
   <br/>
   <p>
 <a href="https://github.com/Gifted-s" target="_blank">
