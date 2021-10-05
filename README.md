@@ -15,9 +15,9 @@
 </a> 
 </p>
 <br/>
-- CS tutor 
-- Part of team(3) who won the FSI hackathon 2020 [Read More](https://www.efina.org.ng/media-room/team-inclusion-wins-efinas-fintech4wd-hackathon)
-- Publisher of the [clev-cqrs framework](https://www.npmjs.com/package/clev-cqrs)
+- CS tutor  <br/>
+- Part of team(3) who won the FSI hackathon 2020 [Read More](https://www.efina.org.ng/media-room/team-inclusion-wins-efinas-fintech4wd-hackathon). <br/>
+- Publisher of the [clev-cqrs framework](https://www.npmjs.com/package/clev-cqrs) <br/>
 - Programs in Nodejs, Golang and C++ 
 
 
