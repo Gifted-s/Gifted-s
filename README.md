@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/website-%23E34F26.svg?&style=for-the-badge" />
 </a> 
 
-<a href="https://twitter.com/ADEWUMISUNKANM00" target="_blank">
+<a href="https://twitter.com/ADEWUMISUNKANM5" target="_blank">
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a> 
 
@@ -15,7 +15,7 @@
 </a> 
 </p>
 <br/>
-- CS tutor  <br/>
+- CS tutor  [On YouTube](https://www.youtube.com/channel/UCI4OZmm_4knG1fsSBNdLtNQ) <br/>
 - Part of team(3) who won the FSI hackathon 2020 [Read More](https://www.efina.org.ng/media-room/team-inclusion-wins-efinas-fintech4wd-hackathon). <br/>
 - Publisher of the [clev-cqrs framework](https://www.npmjs.com/package/clev-cqrs) <br/>
 - Programs in Nodejs, Golang and C++ 
