@@ -1,5 +1,5 @@
 ## Adewumi Sunkanmi
-#### Software Engineer working on backend system @ Supplys - Chennai, India
+#### Software Engineer working on backend system @ Droppofy- Delhi, India
   <br/>
   <p>
 <a href="https://github.com/Gifted-s" target="_blank">
