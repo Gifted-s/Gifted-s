@@ -3,7 +3,7 @@
   <br/>
   <p>
 <a href="http://clipart-library.com/images/kT8kABGyc.png"  />
-  <img src="http://clipart-library.com/images/kT8kABGyc.png" width="100" height="100" />
+  <img src="http://clipart-library.com/images/kT8kABGyc.png" width="100" height="50" />
 </a> 
 
 <a href="https://twitter.com/ADEWUMISUNKANM5" target="_blank">
