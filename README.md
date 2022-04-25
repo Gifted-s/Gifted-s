@@ -2,7 +2,7 @@
 #### Software Engineer working on backend system @ Droppofy- Delhi, India
   <br/>
   <p>
-<a href="https://www.youtube.com/channel/UCI4OZmm_4knG1fsSBNdLtNQ" target="_blank">
+<a style="width:40px; height:50px;" href="https://www.youtube.com/channel/UCI4OZmm_4knG1fsSBNdLtNQ" target="_blank">
   <img src="https://lisbdnet.com/wp-content/uploads/2021/12/375-3750832_youtube-play-button-transparent-youtube-logo-100x100-png.png" />
 </a> 
 
