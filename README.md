@@ -2,7 +2,8 @@
 #### Software Engineer working on backend system @ Droppofy- Delhi, India
   <br/>
   <p>
-<a href="http://clipart-library.com/images/kT8kABGyc.png" width="400" height="400" />
+<a href="" width="400" height="400" />
+  <img src="http://clipart-library.com/images/kT8kABGyc.png" />
 </a> 
 
 <a href="https://twitter.com/ADEWUMISUNKANM5" target="_blank">
