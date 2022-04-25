@@ -2,7 +2,7 @@
 #### Software Engineer working on backend system @ Droppofy- Delhi, India
   <br/>
   <p>
-<a href="https://toppng.com/uploads/preview/youtube-logo-full-color-button-icon-11618670568zk4dzqgzbf.png" width="200" height="200" />
+<a href="https://toppng.com/uploads/preview/youtube-logo-full-color-button-icon-11618670568zk4dzqgzbf.png" width="400" height="400" />
 </a> 
 
 <a href="https://twitter.com/ADEWUMISUNKANM5" target="_blank">
