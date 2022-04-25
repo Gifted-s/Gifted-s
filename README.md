@@ -2,8 +2,8 @@
 #### Software Engineer working on backend system @ Droppofy- Delhi, India
   <br/>
   <p>
-<a href="https://github.com/Gifted-s" target="_blank">
-  <img src="https://img.shields.io/badge/website-%23E34F26.svg?&style=for-the-badge" />
+<a href="https://www.youtube.com/channel/UCI4OZmm_4knG1fsSBNdLtNQ" target="_blank">
+  <img src="https://lisbdnet.com/wp-content/uploads/2021/12/375-3750832_youtube-play-button-transparent-youtube-logo-100x100-png.png" />
 </a> 
 
 <a href="https://twitter.com/ADEWUMISUNKANM5" target="_blank">
