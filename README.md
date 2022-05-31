@@ -18,7 +18,7 @@
 <br/>
 - Computer Science Teacher [On YouTube](https://www.youtube.com/channel/UCI4OZmm_4knG1fsSBNdLtNQ) <br/>
 - Part of team(3) who won the FSI hackathon 2020 [Read More](https://www.efina.org.ng/media-room/team-inclusion-wins-efinas-fintech4wd-hackathon). <br/>
-- Programs in Nodejs, Golang and C++ 
+- Programs in Golang, NodeJS and C++ 
 
 
 
