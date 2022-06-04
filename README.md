@@ -16,7 +16,7 @@
 
 </p>
 <br/>
-- Golang And Javascript Software Engineer passionate about Networking, Cloud Computing, System Design and AI<br/>
+- Golang And Javascript Software Engineer passionate about Networking, Cloud Computing and System Design<br/>
 - Familiar with HTTP 1.0 and gRPC(HTTP 2.0)<br/>
 - Computer Science Teacher [On YouTube](https://www.youtube.com/channel/UCI4OZmm_4knG1fsSBNdLtNQ) <br/>
 - Part of team(3) who won the FSI hackathon 2020 [Read More](https://www.efina.org.ng/media-room/team-inclusion-wins-efinas-fintech4wd-hackathon). <br/>
