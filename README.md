@@ -1,5 +1,6 @@
 ## Adewumi Sunkanmi
-#### Software Engineer working on backend system @ Droppofy- Delhi, India
+#### Software Engineer working on backend system @ Droppofy
+
   <br/>
   <p>
 <a href="https://www.youtube.com/channel/UCI4OZmm_4knG1fsSBNdLtNQ"  />
