@@ -1,5 +1,5 @@
 ## Adewumi Sunkanmi
-#### Software Engineer working on backend system @ Droppofy
+#### Software Engineer working on backend system
 
   <br/>
   <p>
