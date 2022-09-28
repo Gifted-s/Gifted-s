@@ -1,5 +1,5 @@
 ## Adewumi Sunkanmi
-#### Software Engineer working on backend system
+#### Golang Developer
 
   <br/>
   <p>
