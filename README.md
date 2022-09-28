@@ -17,7 +17,7 @@
 
 </p>
 <br/>
-- Golang, Nodejs and C++ Engineer - Specialized in Cloud Computing<br/>
+- Golang, Javascript, and C++ Engineer - Specialized in Cloud Computing<br/>
 - Teaches Data Structures in Golang [On YouTube](https://www.youtube.com/channel/UCI4OZmm_4knG1fsSBNdLtNQ) <br/>
 - Part of team(3) who won the FSI hackathon 2020 [Read More](https://www.efina.org.ng/media-room/team-inclusion-wins-efinas-fintech4wd-hackathon). <br/>
 
