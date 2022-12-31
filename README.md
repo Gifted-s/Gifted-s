@@ -1,5 +1,5 @@
 ## Adewumi Sunkanmi
-#### Software Engineer(Specialize in Distributed Database Systems )   
+#### Software Engineer(Specialize in Distributed Storage Systems )   
 
   <br/>
   <p>
