@@ -1,5 +1,5 @@
 ## Adewumi Sunkanmi
-#### Golang Developer
+#### Software Engineer(Specialize in Distributed Database Systems )   
 
   <br/>
   <p>
