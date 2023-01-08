@@ -1,5 +1,5 @@
 ## Adewumi Sunkanmi
-#### Software Engineer(Specialize in Distributed Storage Systems )   
+####  A Software Engineer with a passion for Cloud Computing especially Distributed Storage/Database Systems. 
 
   <br/>
   <p>
@@ -18,9 +18,7 @@
 </p>
 <br/>
 <p>
-  A Software Engineer with a passion for Cloud Computing especially Distributed Storage/Database Systems.
-
-What makes me unique is my ability to pick up a new skill, learn it as quickly as possible and use it to solve problems efficiently, this isn't limited to technical skills. My technical skills include advanced knowledge of the internals and inner workings of distributed databases, programming in Golang, Rust, Typescript, and C++, and designing a system based on the requirements e.g selecting between B-tree and the Log-Structured Merge-tree (LSM-tree) based Database, application of Data Structures and Algorithms. 
+Advanced knowledge of the internals and inner workings of distributed databases especially MongoDB, programming in Golang, Rust, Typescript, and C++, and designing a system based on the requirements e.g selecting between B-tree and the Log-Structured Merge-tree (LSM-tree) based Database, application of Data Structures and Algorithms. 
 
 Finally, I love the activity  of reading books and not just technical ones but different varieties(this helps increase my range of choices)
  </p> 
