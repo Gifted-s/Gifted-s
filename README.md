@@ -25,7 +25,7 @@ Finally, I love the activity of reading books and not just technical ones but va
  </p> 
  
  <h6>In Summary</h6>
-- Focus: Cloud Computing(Distributed Storage/Database Systems)
+- Focus: Cloud Computing(Distributed Storage/Database Systems)  <br/>
 - Programming Languages: Golang, Rust, Typescript and C++   <br/>
 - Hobby: Avid reading (Fictions, Non-Fictions, Technical, Biographies)  <br/>
 <!-- - Teaches Data Structures in Golang [On YouTube](https://www.youtube.com/channel/UCI4OZmm_4knG1fsSBNdLtNQ) <br/> -->
