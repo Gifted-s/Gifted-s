@@ -18,7 +18,7 @@
 </p>
 <br/>
 <p>
-Advanced knowledge of the internals and inner workings of distributed databases especially MongoDB, programming in Golang, Rust, Typescript, and C++, and designing a system based on the requirements e.g selecting between B-tree and the Log-Structured Merge-tree (LSM-tree) based Database, application of Data Structures and Algorithms. 
+Advanced knowledge of the internals and inner workings of distributed databases especially MongoDB, programs in Golang, Rust, Typescript, and C++, and designing a system based on the requirements e.g selecting between B-tree and the Log-Structured Merge-tree (LSM-tree) based Database, application of Data Structures and Algorithms. 
 
 Finally, I love the activity  of reading books and not just technical ones but different varieties(this helps increase my range of choices)
  </p> 
