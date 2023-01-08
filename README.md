@@ -17,15 +17,17 @@
 
 </p>
 <br/>
+<h3>Uniqueness</h3>
 <p>
-Advanced knowledge of the internals and inner workings of distributed databases, programs in Golang, Rust, Typescript, and C++, and designing a system based on the requirements e.g selecting between B-tree and the Log-Structured Merge-tree (LSM-tree) based Database, application of Data Structures and Algorithms. 
+Advanced knowledge of the internals and inner workings of distributed databases, programming in GoLang, Rust, Typescript, and C++, and designing a system based on the requirement(s) e.g selecting between B-tree and the Log-Structured Merge-tree (LSM-tree) based Database for a system, application of Data Structures and Algorithms. 
 
-Finally, I love the activity  of reading books and not just technical ones but different varieties(this helps increase my range of choices)
+Finally, I love the activity of reading books and not just technical ones but varieties(this helps increase my range of choices)
  </p> 
  
  <h6>In Summary</h6>
 - Focus -  Cloud Computing(Distributed Storage/Database Systems)
 - Programming Languages - Golang, Rust, Typescript and C++   <br/>
+- Avid Reader  <br/>
 <!-- - Teaches Data Structures in Golang [On YouTube](https://www.youtube.com/channel/UCI4OZmm_4knG1fsSBNdLtNQ) <br/> -->
 - Part of team(3) who won the FSI hackathon 2020 [Read More](https://efina.org.ng/media-room/team-inclusion-wins-efinas-fintech4wd-hackathon/#:~:text=Adewumi%20Sunkanmi). <br/>
 
