@@ -26,7 +26,8 @@ Finally, I love the activity  of reading books and not just technical ones but d
  </p> 
  
  <h6>In Summary</h6>
-- Programming Languages - Golang, Rust, Typescrpt and C++   <br/>
+- Focus -  Cloud Computing(Distributed Storage/Database Systems)
+- Programming Languages - Golang, Rust, Typescript and C++   <br/>
 <!-- - Teaches Data Structures in Golang [On YouTube](https://www.youtube.com/channel/UCI4OZmm_4knG1fsSBNdLtNQ) <br/> -->
 - Part of team(3) who won the FSI hackathon 2020 [Read More](https://efina.org.ng/media-room/team-inclusion-wins-efinas-fintech4wd-hackathon/#:~:text=Adewumi%20Sunkanmi). <br/>
 
