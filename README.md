@@ -1,5 +1,5 @@
 ## Adewumi Sunkanmi
-####  A Software Engineer with a passion for Cloud Computing especially Distributed Storage/Database Systems. 
+####  A GoLang Software Engineer with a passion for Cloud Computing especially Distributed Storage/Database Systems. 
 
   <br/>
   <p>
