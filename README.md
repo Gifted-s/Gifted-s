@@ -31,7 +31,7 @@ Finally, I love the activity of reading books and not just technical ones but va
 <!-- - Teaches Data Structures in Golang [On YouTube](https://www.youtube.com/channel/UCI4OZmm_4knG1fsSBNdLtNQ) <br/> -->
 
 <h6>AWARDS</h6>
- [I'm an inline-style link](https://www.google.com) <br/>
+ [I'm an inline-style link](https://www.google.com)  
 - Leetcode award - [View award](https://leetcode.com/_sunkanmi/?showBadge=50-days-badge-2022) <br/>
 - Part of team(3) who won the FSI hackathon 2020 [Read More](https://efina.org.ng/media-room/team-inclusion-wins-efinas-fintech4wd-hackathon/#:~:text=Adewumi%20Sunkanmi). <br/>
 
