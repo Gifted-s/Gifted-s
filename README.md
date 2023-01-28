@@ -1,13 +1,13 @@
 ## Adewumi Sunkanmi D.
 ####  A GoLang Software Engineer - Distributed Storage/Database Systems. 
   
-<h6>Uniqueness</h6>
+<h6>UNIQUENESS</h6>
  
 Advanced knowledge of the internals and inner workings of distributed databases, programming in GoLang, Rust, Typescript, designing a system based on the requirement(s) e.g selecting between B-tree and the Log-Structured Merge-tree (LSM-tree) based Database, and application of Data Structures and Algorithms. 
 Finally, I love the activity of reading books and not just technical ones but varieties(this helps increase my range of choices)
  
  
- <h6>In Summary</h6>
+ <h6>SUMMARY</h6>
  
 - Focus: Distributed Storage/Database Systems  <br/>
 - Programming Languages: Golang, Rust, Typescript and C++   <br/>
