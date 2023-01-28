@@ -7,14 +7,12 @@
   <img src="https://blog.hootsuite.com/wp-content/uploads/2018/09/yt_icon_rgb-620x438.png" height="29" />
 </a>  -->
 
-<a href="https://www.linkedin.com/in/adewumi-sunkanmi-ab975817a/" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a> 
 
-<a href="https://twitter.com/ADEWUMISUNKANM5" target="_blank">
+
+<!-- <a href="https://twitter.com/ADEWUMISUNKANM5" target="_blank">
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a> 
-
+ -->
 </p>
  
 <h3>Uniqueness</h3>
@@ -36,5 +34,10 @@ Finally, I love the activity of reading books and not just technical ones but va
 - Leetcode award - [View award](https://leetcode.com/_sunkanmi/?showBadge=50-days-badge-2022) <br/>
 - Part of team(3) who won the FSI hackathon 2020 [Read More](https://efina.org.ng/media-room/team-inclusion-wins-efinas-fintech4wd-hackathon/#:~:text=Adewumi%20Sunkanmi). <br/>
 
+<h6>LinkedIn</h6>
+
+<a href="https://www.linkedin.com/in/adewumi-sunkanmi-ab975817a/" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a> 
  
   
