@@ -1,5 +1,4 @@
 ## Adewumi Sunkanmi D.
-#### Senior Software Engineer(Advanced Automation) @ Acronis. 
   
 <h6>UNIQUENESS</h6>
  
